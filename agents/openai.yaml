@@ -1,0 +1,7 @@
+interface:
+  display_name: "视频分镜提示词生成器"
+  short_description: "生成含微表情演绎、少而有效SHOT及完整限制块的视频分镜"
+  default_prompt: "Use $generate-video-storyboards to turn this script into cost-efficient timed video storyboard prompts with character-specific microexpressions."
+
+policy:
+  allow_implicit_invocation: true
